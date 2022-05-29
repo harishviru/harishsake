@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sharis489@gmail.com**
 
-- ⚡ Fun fact **never change your character if you believe yourself**
+- ⚡ General fact **never change your character if you believe yourself**
 
 <h3 align="left">Connect with me:</h3>
 
