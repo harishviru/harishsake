@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishviru&label=Profile%20views&color=0e75b6&style=flat" alt="harishviru" /> </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` Engineer at Brillio Technologies Pvt Limited
-- :technologist: I love java language
+- :school: I am a `Senior` Engineer at Brillio Technologies Pvt Limited 
+
+- :technologist: I love java language , and i having 4+ years of experience in java
 - :nerd_face: Always `learning new things`
 
 - 📫 How to reach me **sharis489@gmail.com**
