@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish sake</h1>
 <h3 align="center">A passionate Fullstack Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishviru&label=Profile%20views&color=0e75b6&style=flat" alt="harishviru" /> </p>
+<p align="left"> <img src="https://www.linkedin.com/in/harish-sake-9779b6213/" alt="Harish Sake" /> </p>
 
 ## :sassy_man:  About me
 - :school: I am a `Senior` Engineer at Brillio Technologies Pvt Limited 
